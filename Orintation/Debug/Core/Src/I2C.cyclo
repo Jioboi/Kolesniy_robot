@@ -1,0 +1,2 @@
+../Core/Src/I2C.c:10:6:I2C_ReadReg	12
+../Core/Src/I2C.c:47:6:I2C_write2reg	7

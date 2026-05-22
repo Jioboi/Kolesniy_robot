@@ -1,0 +1,11 @@
+../Core/Src/Orintation.c:14:8:ADXL_init	32	static
+../Core/Src/Orintation.c:48:8:Orintation_init	32	static
+../Core/Src/Orintation.c:63:8:ADXL_GetDataRaw	32	static
+../Core/Src/Orintation.c:71:8:ADXL_GetData16b	24	static
+../Core/Src/Orintation.c:86:8:ADXL_GetDataF	32	static
+../Core/Src/Orintation.c:101:8:Orintation_Acc_Get	40	static
+../Core/Src/Orintation.c:113:6:Filtration	32	static
+../Core/Src/Orintation.c:119:6:Orintation_Horizon_Calc	32	static
+../Core/Src/Orintation.c:126:6:Orintation_Horizon_AcclCorr	32	static
+../Core/Src/Orintation.c:133:6:Orintation_Accl_HorizonCorr	24	static
+../Core/Src/Orintation.c:140:6:Orintation_Velocity_Calc	24	static
